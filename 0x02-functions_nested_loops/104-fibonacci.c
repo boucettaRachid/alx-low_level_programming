@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include "holberton.h"
 /**
  * print_fib - prints the first 50 Fibonacci numbers,
  * starting with 1 and 2, followed by a new line.
