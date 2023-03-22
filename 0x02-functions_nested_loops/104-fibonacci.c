@@ -1,4 +1,5 @@
 #include <stdio.h>
+<<<<<<< HEAD
 
 
 	/**
@@ -52,3 +53,18 @@
 		return (0);
 	}
 
+=======
+#include <stdlib.h>
+#include "holberton.h"
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
+
+int main(void)
+{
+
+	return (0);
+}
+>>>>>>> c9bcb2a6bc9f06bcc8cbeafa6691284aceb667b7
