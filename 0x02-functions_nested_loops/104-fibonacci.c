@@ -6,7 +6,7 @@
  *
  * Return: Always 0 (Success)
  */
-int main() {
+int main(void) {
     int count = 98;
     int first = 1, second = 2;
     int next;
